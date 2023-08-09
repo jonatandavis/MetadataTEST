@@ -1,0 +1,16 @@
+{
+    "SignUp_Form": "#signin2",
+
+    "SignUp_Username": "#sign-username",
+    "SignUp_Password": "#sign-password",
+    "User_data": "usertst",
+    "Password_data": "usertst",
+  
+    "Btn_SignUp": "#signInModal > .modal-dialog > .modal-content > .modal-footer > .btn-primary",
+    "Btn_Close": "#signInModal > .modal-dialog > .modal-content > .modal-footer > .btn-secondary",
+  
+    "User_exist": "This user already exist.",
+    
+    "InvalidUser_data": "uno",
+    "InvalidPassword_data": "uno"
+  }

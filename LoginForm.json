@@ -1,0 +1,15 @@
+{
+  "User_element": "#loginusername",
+  "Password_element": "#loginpassword",
+  "User_data": "tres",
+  "Password_data": "tres",
+
+  "Btn_LogIn": "#logInModal > .modal-dialog > .modal-content > .modal-footer > .btn-primary",
+  "Btn_Close": "#logInModal > .modal-dialog > .modal-content > .modal-footer > .btn-secondary",
+
+  "Welcome_Name": "#nameofuser",
+  "Welcome_Text": "Welcome tres",
+  
+  "InvalidUser_data": "uno",
+  "InvalidPassword_data": "uno"
+}
